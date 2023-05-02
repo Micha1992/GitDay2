@@ -6,4 +6,8 @@ public class HomePage {
 
     // nav menu
 
+    // more thibg for the homepage
+
+    // logo
+
 }
