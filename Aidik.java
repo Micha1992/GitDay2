@@ -4,5 +4,5 @@ public class Aidik {
     // Kak dela?
     // When are you coming back ?
     // prikol
-
+    // che nado
 }
